@@ -1,0 +1,20 @@
+.body {
+    font-family: Arial;
+    margin: 20px;
+}
+a {
+    background-color: #33a0b3;
+    font-size: 200%;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-right: 2px;
+}
+.buttons {
+    display: flex;
+    flex-direction: columns;
+}
